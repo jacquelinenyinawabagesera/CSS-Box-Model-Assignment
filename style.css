@@ -1,0 +1,8 @@
+.container{
+border: dotted rgb(20, 231, 20);
+}
+.inner-container{
+padding: 20px;
+margin: 5%;
+border: solid rgb(161, 161, 236);
+}
